@@ -1,0 +1,14 @@
+layout_spectrum: 0.1735114
+color:
+  saturation: 0.6632463
+  brandStrength: 0.8062785
+  lightness: 0.928791
+  rhythmicContrast: 0.1686766
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.208836
+name: Ein
